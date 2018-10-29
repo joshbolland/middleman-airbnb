@@ -7,6 +7,8 @@
   position: relative;
   padding: 15px;
   margin: 20px;
+  border-radius: 2px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
 }
 .card-user {
   position: absolute;
@@ -44,7 +46,9 @@
   z-index: 2;
   background: black;
   opacity: 0;
+  transition: all 0.5s ease;
 }
 .card-link:hover {
   opacity: 0.1;
+  transition: all 0.5s ease;
 }
