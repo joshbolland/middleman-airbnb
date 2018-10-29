@@ -1,0 +1,12 @@
+berlin:
+  name: "Berlin"
+  address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
+paris:
+  name: "Paris"
+  address: "16, villa Gaudelet 75011 Paris"
+london:
+  name: "London"
+  address: "138 Kingsland Road"
+bali:
+  name: "Bali"
+  address: "Bali innit"
